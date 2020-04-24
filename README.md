@@ -13,3 +13,9 @@ export PATH="/usr/local/opt/python/libexec/bin:$PATH"
 $ phyton3 
 # Use exit() or Ctrl-D to exit
 ```
+
+### Python Basic
+- Input
+- Numerics
+- Converting
+- List
