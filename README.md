@@ -18,4 +18,7 @@ $ phyton3
 - Input
 - Numerics
 - Converting
-- List
+- List Operations
+- Tuple Operations
+- Set Operations
+- String Operations
