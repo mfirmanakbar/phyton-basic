@@ -18,7 +18,22 @@ $ phyton3
 - Input
 - Numerics
 - Converting
-- List Operations
-- Tuple Operations
-- Set Operations
-- String Operations
+- Data Type
+    - List Operations
+    - Tuple Operations
+    - Set Operations
+    - String Operations
+    - Dictionary Operations
+- Flow Control
+    - If Else
+    - For Loop
+    - While Loop
+- Function
+- Operators
+    - Arithmetic
+    - Assignment
+    - Bitwise
+    - Comparation
+    - Identity
+    - Logical
+    - Membership
