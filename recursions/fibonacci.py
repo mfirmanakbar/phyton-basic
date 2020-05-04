@@ -7,10 +7,14 @@ def fibonacci(n):
     elif n == 1 or n == 2:
         return n - 1
     else:
-        return fibonacci(n - 1) + fibonacci(n - 2)
+        fa = fibonacci(n - 1)
+        fb = fibonacci(n - 2)
+        fc = fa + fb
+        return fc
+        # return fibonacci(n - 1) + fibonacci(n - 2)
 
 
-result = fibonacci(10)
+result = fibonacci(7)
 print(result)
 
 '''
